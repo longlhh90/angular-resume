@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1627428773110,
+  "timestamp": 1627430139069,
   "index": "https://longlhh90.github.io/site/index.html",
   "assetGroups": [
     {
@@ -31,7 +31,7 @@
         "https://longlhh90.github.io/site/9.d8065eb577b75851ee24.js",
         "https://longlhh90.github.io/site/common.e11757ff8694666403c8.js",
         "https://longlhh90.github.io/site/index.html",
-        "https://longlhh90.github.io/site/main.537a2ec7bf9f333169f1.js",
+        "https://longlhh90.github.io/site/main.ed37fee628da08b1b7f6.js",
         "https://longlhh90.github.io/site/manifest.webapp",
         "https://longlhh90.github.io/site/polyfills.53dcebeb639a21aa4798.js",
         "https://longlhh90.github.io/site/runtime.a68371000d8d60dad602.js",
@@ -213,9 +213,9 @@
     "https://longlhh90.github.io/site/content/vendor/remixicon/remixicon.woff": "9efb0fbefc3880e7f0b66e58f52f85190fddd279",
     "https://longlhh90.github.io/site/content/vendor/remixicon/remixicon.woff2": "4d375abf43ed18aa54264c1b59714b0a59c593a4",
     "https://longlhh90.github.io/site/cube2.83f61328828ee98dadd6.jpg": "d10170f93f944fc1d1bd7730582ce47f4af6327c",
-    "https://longlhh90.github.io/site/index.html": "8fdd76beda48d8190c27afa7f03b06f37cf26fc3",
+    "https://longlhh90.github.io/site/index.html": "55300b3ac9676ea385dc558fff0707dda667507e",
     "https://longlhh90.github.io/site/jhipster_family_member_1.75c371c05f1cbb115959.svg": "61a207bca2c8b0dac21fc945d2f2505e4b5d3a30",
-    "https://longlhh90.github.io/site/main.537a2ec7bf9f333169f1.js": "5cb9737674b6f233bded0c8d70102fcf1a56dd0d",
+    "https://longlhh90.github.io/site/main.ed37fee628da08b1b7f6.js": "b1670f635802d3b8f35d2e08ef6fb8210fb94af2",
     "https://longlhh90.github.io/site/manifest.webapp": "d550b98ad230340bea0b9822219103c785e5761e",
     "https://longlhh90.github.io/site/polyfills.53dcebeb639a21aa4798.js": "138e54700d1283bbc3ed7fcd3c1c9f86180a01bf",
     "https://longlhh90.github.io/site/runtime.a68371000d8d60dad602.js": "1473b50c87360ba15fcfb9400c48d65cd60fcc54",
