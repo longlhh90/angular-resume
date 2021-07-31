@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1627703666158,
+  "timestamp": 1627703909935,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -46,8 +46,8 @@
         "/common-es2015.76f199f3b66584ef6fc5.js",
         "/common-es5.76f199f3b66584ef6fc5.js",
         "/index.html",
-        "/main-es2015.90579d37681895d61bc0.js",
-        "/main-es5.90579d37681895d61bc0.js",
+        "/main-es2015.5c8189525b78fbb835cf.js",
+        "/main-es5.5c8189525b78fbb835cf.js",
         "/manifest.webapp",
         "/polyfills-es2015.a78c248444f9c9e6c510.js",
         "/polyfills-es5.3bf4ed6d8d996f658e40.js",
@@ -252,10 +252,10 @@
     "/content/vendor/remixicon/remixicon.woff": "9efb0fbefc3880e7f0b66e58f52f85190fddd279",
     "/content/vendor/remixicon/remixicon.woff2": "4d375abf43ed18aa54264c1b59714b0a59c593a4",
     "/cube2.83f61328828ee98dadd6.jpg": "d10170f93f944fc1d1bd7730582ce47f4af6327c",
-    "/index.html": "6267e276736fc965d4903b316478f0a77d433d24",
+    "/index.html": "c70cb1a79ccab197b10fb36f3f8ce0ef8f500513",
     "/jhipster_family_member_1.75c371c05f1cbb115959.svg": "61a207bca2c8b0dac21fc945d2f2505e4b5d3a30",
-    "/main-es2015.90579d37681895d61bc0.js": "baeea1ad5b4f9986813f16da6014debbc311a8bb",
-    "/main-es5.90579d37681895d61bc0.js": "4ad5ecc805be5c8e61c244fbd413db74662a5462",
+    "/main-es2015.5c8189525b78fbb835cf.js": "ddeb5ed5bd66fbfd780712c3405d7451694bf91e",
+    "/main-es5.5c8189525b78fbb835cf.js": "ad954a6773dd85cee5c5b71767c3c5e6dd475190",
     "/manifest.webapp": "d550b98ad230340bea0b9822219103c785e5761e",
     "/polyfills-es2015.a78c248444f9c9e6c510.js": "6e4076b4a22e2574599fcc203e5a4f9148e7ba9b",
     "/polyfills-es5.3bf4ed6d8d996f658e40.js": "69cc13969e77a85d071d5b43fb938f472ad22c43",
